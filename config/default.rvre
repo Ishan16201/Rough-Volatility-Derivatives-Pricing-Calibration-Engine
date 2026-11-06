@@ -1,0 +1,10 @@
+# Deterministic placeholder configuration. No prices are simulated.
+experiment_name = foundation-smoke-test
+initial_asset = 100.0
+volatility = 0.2
+risk_free_rate = 0.03
+dividend_yield = 0.0
+maturity_years = 1.0
+seed = 20261106
+paths = 10000
+time_steps = 252
